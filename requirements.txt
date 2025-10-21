@@ -1,0 +1,8 @@
+streamlit==1.44.1
+streamlit-lottie==0.0.5
+pandas==2.2.3
+numpy==2.0.2
+scikit-learn==1.6.1
+xgboost==3.0.5
+shap==0.48.0
+joblib==1.4.2
