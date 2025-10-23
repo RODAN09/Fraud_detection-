@@ -7,3 +7,6 @@ Manual Transaction Input: Enter transaction details manually and get instant pre
 Fraud Probability: View the likelihood of a transaction being fraudulent.
 SHAP Explanations: Understand which features influence the prediction most.
 Modern UI: Sleek dark-themed design with glass-style cards for a professional look.
+
+
+LIVE DEMO : https://4bjyp7knuemkpsj3tgp9ne.streamlit.app/
